@@ -81,7 +81,7 @@ Each log entry includes:
 
 ## 👨‍💻 Authors & Credits
 Built by a passionate team Mavericks from **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)** as part of a IEEE RGIPT KodeKurrent hackathon.
-## Mavericks Team Members - Apurv Gupta (Team Leader), Abhigyan Pandey
+## Mavericks Team Members - Apurv Gupta (Team Leader), Kaushal Sharma and Abhigyan Pandey
 
 
 ---
