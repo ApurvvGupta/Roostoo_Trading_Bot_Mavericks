@@ -75,11 +75,13 @@ Each log entry includes:
 ## 🏆 Achievements
 - 🥇 **Second Place** in crypto hackathon
 - ✅ 100% trade logic alignment with declared indicators
+- 
 
 ---
 
 ## 👨‍💻 Authors & Credits
 Built by a passionate team Mavericks from **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)** as part of a IEEE RGIPT KodeKurrent hackathon.
+Mavericks Team Members - Apurv Gupta (Team Leader), Abhigyan Pandey
 
 
 ---
