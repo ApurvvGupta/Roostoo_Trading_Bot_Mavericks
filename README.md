@@ -75,8 +75,7 @@ Each log entry includes:
 ## 🏆 Achievements
 - 🥇 **Second Place** in crypto hackathon
 - ✅ 100% trade logic alignment with declared indicators
-- 
-
+  
 ---
 
 ## 👨‍💻 Authors & Credits
